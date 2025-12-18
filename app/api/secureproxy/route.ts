@@ -215,7 +215,7 @@ async function handleProxy(req: NextRequest, endpoint: string) {
             resHeaders['Content-Type'] = contentType
         }
 
-        return new NextResponse(responseData, {
+        return new NextResponse(responseData as any, {
             status: statusCode,
             headers: resHeaders,
         })
