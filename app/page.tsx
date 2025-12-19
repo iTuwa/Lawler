@@ -1,5 +1,4 @@
-import { redirect } from "next/navigation";
-
 export default function Page() {
-  redirect("/index.html");
+  // Root route is handled via redirects in next.config.mjs
+  return null;
 }
